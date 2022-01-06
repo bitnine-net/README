@@ -26,3 +26,32 @@
 개발 팀에서 graph 라는 이름의 테스트 프로젝트를 생성할 경우 아래와 같이 repository 를 생성합니다
 > DT_T_graph
 
+****
+
+### Github Repository - Naming Convention
+
+#### Rules
+
+- Rule : First Prefix_Second Prefix_Project Name
+
+- First Prefix (Team)
+> - Development Team : DT
+> - AI Center : AI
+> - Tech Team : TE 
+> - Configuration Management/Collaboration : CM
+
+- Second Prefix (Project Nature)
+> - Product : P
+> - Test : T
+> - Sample : S
+> - POC : O
+> - Analysis : A
+> - Module : M
+> - External Project : E
+
+#### * Example 
+When the development team creates a test project named graph, the repository is created as follows.
+> DT_T_graph
+
+
+
